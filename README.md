@@ -4,4 +4,4 @@ En esta carpeta encontraran trabajos que e realizado como ejemplos para demostra
 
 ## Ventas Por Factura
 
-[ Base De Datos ] (https://www.kaggle.com/datasets/datacertlaboratoria/proyecto-3-segmentacin-de-clientes-en-ecommerce?resource=download&select=ventas-por-factura.csv)
+[ Base De Datos ] (https://raw.githubusercontent.com/SergioOviedoMartinez/Proyectos-Power-Bi/main/ventas-por-factura.csv)
