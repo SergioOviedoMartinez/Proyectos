@@ -1,4 +1,4 @@
-# Proyectos-Power-Bi
+# Proyectos
 En esta carpeta encontraran trabajos que e realizado como ejemplos para demostrar mi uso de la herramienta Power Bi, Todas las bases utilizadas en estos ejemplos son tomadas de Kaggle con el fin de usarse como ejemplo.
 
 
